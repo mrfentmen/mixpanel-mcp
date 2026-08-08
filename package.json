@@ -1,6 +1,6 @@
 {
   "name": "mixpanel-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Mixpanel product analytics. Query events, funnels, retention, cohorts, and user profiles.",
   "type": "module",
   "mcpName": "io.github.mrfentmen/mixpanel-mcp",
